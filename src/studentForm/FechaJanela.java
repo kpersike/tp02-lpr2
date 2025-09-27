@@ -1,9 +1,11 @@
 /*
+ CBTLPR2 - Trabalho Pr√°tico 02
+
  Nome: Kaik Persike Maiorquino
- Prontu·rio: CB3029689
+ Prontu√°rio: CB3029689
  
  Nome: Matheus Penteado
- Prontu·rio: CB3031501
+ Prontu√°rio: CB3031501
 */
 
 
