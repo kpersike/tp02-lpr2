@@ -1,9 +1,11 @@
 /*
+ CBTLPR2 - Trabalho Pr√°tico 02
+
  Nome: Kaik Persike Maiorquino
- Prontu·rio: CB3029689
+ Prontu√°rio: CB3029689
  
  Nome: Matheus Penteado
- Prontu·rio: CB3031501
+ Prontu√°rio: CB3031501
 */
 
 package studentForm;
@@ -39,7 +41,7 @@ public class Form extends JPanel implements ActionListener{
 		painelSuperior.add(new JLabel("Idade:"));
 		idadeAluno = new JTextField();
 		painelSuperior.add(idadeAluno);
-		painelSuperior.add(new JLabel("EndereÁo:"));
+		painelSuperior.add(new JLabel("Endere√ßo:"));
 		enderecoAluno = new JTextField();
 		painelSuperior.add(enderecoAluno);
 		
